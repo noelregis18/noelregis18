@@ -67,7 +67,7 @@ That being said, I have another side to me!
   - As a member of the INTERACT Club , I participated in various activities involving teaching young underprivileged students, cooking and serving food to them and also gifting Christmas presents.
 ###
 
-<h3 align="left">👨‍💻 Past Experience</h3>
+
 
 
 
