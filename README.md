@@ -1,4 +1,4 @@
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=800&color=30ADF7FF&background=FF002D00&center=true&multiline=false&random=false&width=450&height=50&lines=Hi+%F0%9F%91%8B!+I+am+Debdeep;a+CS+undergrad+from+India;a+competitive+Basketball+player" alt="Typing SVG" /></a></h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=800&color=30ADF7FF&background=FF002D00&center=true&multiline=false&random=false&width=450&height=50&lines=Hi+%F0%9F%91%8B!+I+am+Noel;a+CS+undergrad+from+India;" alt="Typing SVG" /></a></h2>
 
 ###
 
@@ -20,9 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/sass/CC6699" height="30" alt="sass logo"  />
-  <img width="12" />
+   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
@@ -32,17 +30,12 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
+   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
-</div>
+ 
+  </div>
 
 ###
 
@@ -76,11 +69,7 @@ That being said, I have another side to me!
 
 <h3 align="left">👨‍💻 Past Experience</h3>
 
-###
 
-<img align="right" height="160" src="https://i.ibb.co/k3qQCMf/fce67c3f16fe8b8709214679f3f0fe43eb265038-1.gif"  />
-
-###
 
 ###
 <hr/>
@@ -88,10 +77,10 @@ That being said, I have another side to me!
 
 ###
 
-  - <a href='https://uhfindia.org/'>exam-gpt</a> - Generate markdown notes from your exam syllabus, provide syllabus in txt format & get markdown notes generated
-  - <a href='https://github.com/SECTOR-51/Celestis.Ai/'>livestream</a> - Livestream to Youtube, Twitch, and Facebook at the same time using Javascript 📹
-  - <a href='https://himalayandreamtreks.in/'>Hyperswitch</a> - An open source payments switch written in Rust to make payments fast, reliable and affordable
-  - <a href='https://testaeccc.web.app/'>LinkUp</a> - Linkup is a social media application where users can connect, share posts, like, comment, and view profiles. The app is designed with a responsive UI and supports both dark mode and light mode.
+  - <a>exam-gpt</a> - Generate markdown notes from your exam syllabus, provide syllabus in txt format & get markdown notes generated
+  - <a>livestream</a> - Livestream to Youtube, Twitch, and Facebook at the same time using Javascript 📹
+  - <a>Hyperswitch</a> - An open source payments switch written in Rust to make payments fast, reliable and affordable
+  - <a>LinkUp</a> - Linkup is a social media application where users can connect, share posts, like, comment, and view profiles. The app is designed with a responsive UI and supports both dark mode and light mode.
 ###
 <hr/>
 <!-- Github Stats --> 
