@@ -90,7 +90,7 @@ That being said, I have another side to me!
 ###
 <hr/>
 <!-- Github Stats --> 
-<div align="center">
+<div align="center">Total Visits
   <img  src="https://profile-counter.glitch.me/noelregis18/count.svg?"  />
 </div>
 
