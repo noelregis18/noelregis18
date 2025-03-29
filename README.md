@@ -81,7 +81,7 @@ That being said, I have another side to me!
  
  <a href='https://gas-help-center.vercel.app/'>Gas Help Center</a>-Simplifying Gas Utility Services ,submit service requests, track their status, and manage your account all in one place. Say goodbye to long wait times and hello to efficient service.
  
- <a href='https://lively-code-lab.vercel.app/'>Live React Code Editor</a>-The editor allows users to write, edit, and execute React code in real-time.
+ <a href='https://automagic-web-agent.vercel.app/'>AI Agent for browser automation</a>-Building an AI agent to automate browser workflows on your machine’s native browser
  
  <a href='https://purrfect-pet-companions.vercel.app/'>Purrfect Pet Companions</a>-Tech-forward pet care platform designed to simplify pet care routines and celebrate the unique bond between pet owners and their furry friends
  
