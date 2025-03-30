@@ -81,7 +81,7 @@ That being said, I have another side to me!
  
  <a href='https://gas-help-center.vercel.app/'>Gas Help Center</a>-Simplifying Gas Utility Services ,submit service requests, track their status, and manage your account all in one place. Say goodbye to long wait times and hello to efficient service.
  
- <a href='https://automagic-web-agent.vercel.app/'>AI Agent for browser automation</a>-Building an AI agent to automate browser workflows on your machine’s native browser
+ <a href='https://chefassist-ai-chat-3g2e.vercel.app/'>AI Customer Service Chatbot</a>-ChefAssist is an AI-powered chatbot designed to serve as a customer service agent for Faasos restaurant
  
  <a href='https://purrfect-pet-companions.vercel.app/'>Purrfect Pet Companions</a>-Tech-forward pet care platform designed to simplify pet care routines and celebrate the unique bond between pet owners and their furry friends
  
