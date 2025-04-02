@@ -77,13 +77,13 @@ That being said, I have another side to me!
 
 ###
 
- <a href='https://parkify-lot.vercel.app/'>Parkify</a>-Parkify is an innovative parking management system, offering real-time parking spot availability, reservation management, and live notifications.
+ <a href='https://dairy-digital-innovations.vercel.app/'>Digital Dairy Solutions</a>-IoT Implementation in AgriTech Sector
  
- <a href='https://gas-help-center.vercel.app/'>Gas Help Center</a>-Simplifying Gas Utility Services ,submit service requests, track their status, and manage your account all in one place. Say goodbye to long wait times and hello to efficient service.
+ <a href='https://aarogya-bharat-gilt.vercel.app/'>Aarogya Bharat</a>-Aarogya Bharat is a web3 project which utilizes Tezos blockchain technology to securely store and manage patients' medical histories in the cloud.
  
  <a href='https://chefassist-ai-chat-3g2e.vercel.app/'>AI Customer Service Chatbot</a>-ChefAssist is an AI-powered chatbot designed to serve as a customer service agent for Faasos restaurant
  
- <a href='https://purrfect-pet-companions.vercel.app/'>Purrfect Pet Companions</a>-Tech-forward pet care platform designed to simplify pet care routines and celebrate the unique bond between pet owners and their furry friends
+ <a href='https://wealth-compass-hub.vercel.app/'>Wealth Compass Hub</a>-Your comprehensive suite of financial calculators to make informed decisions about loans, investments, and personal finance.
  
  <a href='https://crowd-helper-haven.vercel.app/'>Online crowdfunding platform</a>-FundLaunch helps creators, innovators, and changemakers gather support for their groundbreaking ideas and meaningful causes.
  
