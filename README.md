@@ -77,7 +77,7 @@ That being said, I have another side to me!
 
 ###
 
- <a href='https://dairy-digital-innovations.vercel.app/'>Digital Dairy Solutions</a>-IoT Implementation in AgriTech Sector
+ <a href='https://dairy-digital-innovations.vercel.app/'>Digital Dairy Solutions</a>-IoT Implementation in AgriTech Sector,this enables farmers to make wise decisions based on real-time data.
  
  <a href='https://aarogya-bharat-gilt.vercel.app/'>Aarogya Bharat</a>-Aarogya Bharat is a web3 project which utilizes Tezos blockchain technology to securely store and manage patients' medical histories in the cloud.
  
