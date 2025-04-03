@@ -85,7 +85,7 @@ That being said, I have another side to me!
  
  <a href='https://wealth-compass-hub.vercel.app/'>Wealth Compass Hub</a>-Your comprehensive suite of financial calculators to make informed decisions about loans, investments, and personal finance.
  
- <a href='https://crowd-helper-haven.vercel.app/'>Online crowdfunding platform</a>-FundLaunch helps creators, innovators, and changemakers gather support for their groundbreaking ideas and meaningful causes.
+ <a href='https://ai-joke-portal.vercel.app/'>AI joke generator</a>-Created a joke generator application using a public API. Fetched and displayed jokes to users, providing entertainment on demand.
  
 ###
 <hr/>
