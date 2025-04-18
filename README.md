@@ -60,7 +60,7 @@
 
   -As a Fullstack Software Developer, I thrive in creating seamless digital experiences from the backend to the frontend. My journey began with a deep dive into AngularJS and Next.js, where I honed my skills in building dynamic web applications. My proficiency extends to database management, utilizing Firebase, MongoDB, GraphQL, and PostgreSQL to ensure robust and scalable data solutions.
  
- My expertise lies in critical business analytics, market research, number crunching, and problem-solving.My work also revolves around building scalable web applications, contributing to open source, and fostering developer communities.
+ My expertise lies in critical business analytics, market research, number crunching, and problem-solving.My work also revolves around building scalable web applications, contributing to open source, and fostering developer communities.My technical expertise is complemented by well-developed interpersonal skills in leadership and public speaking, making me a comprehensive professional candidate. Additionally, I have achieved notable success in financial trading, with significant returns on investments across various instruments.
 
 That being said, I have another side to me! 
   - Working in the Educational Outreach Program , with the aim of imparting necessary education to the underprivileged children and rural minorities.
