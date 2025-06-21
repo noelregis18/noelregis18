@@ -77,15 +77,15 @@ That being said, I have another side to me!
 
 ###
 
- <a href='https://dairy-digital-innovations.vercel.app/'>Digital Dairy Solutions</a>-IoT Implementation in AgriTech Sector,this enables farmers to make wise decisions based on real-time data.
+ <a href='https://novel-ai1.netlify.app/'>Novel AI</a>-Modern web application for AI detection and plagiarism checking. It leverages advanced AI models to help users verify the originality of their content.
  
- <a href='https://aarogya-bharat-gilt.vercel.app/'>Aarogya Bharat</a>-Aarogya Bharat is a web3 project which utilizes Tezos blockchain technology to securely store and manage patients' medical histories in the cloud.
+ <a href='https://live-voting-app1.netlify.app/'>VoteHub</a>-A full-stack application for creating and participating in polls, built with Node.js, Express, React, and PostgreSQL via Supabase.
  
  <a href='https://chefassist-ai-chat-3g2e.vercel.app/'>AI Customer Service Chatbot</a>-ChefAssist is an AI-powered chatbot designed to serve as a customer service agent for Faasos restaurant
  
  <a href='https://wealth-compass-hub.vercel.app/'>Wealth Compass Hub</a>-Your comprehensive suite of financial calculators to make informed decisions about loans, investments, and personal finance.
  
- <a href='https://ai-joke-portal.vercel.app/'>AI Joke Generator</a>-Created a joke generator application using a public API. Fetched and displayed jokes to users, providing entertainment on demand.
+ <a href='https://digital-ink.vercel.app/'>Digital Ink</a>-Modern web application built with Next.js that provides a digital drawing and note-taking experience.
  
 ###
 <hr/>
