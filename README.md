@@ -81,7 +81,7 @@ That being said, I have another side to me!
  
  <a href='https://live-voting-app1.netlify.app/'>VoteHub</a>-A full-stack application for creating and participating in polls, built with Node.js, Express, React, and PostgreSQL via Supabase.
  
- <a href='https://chefassist-ai-chat-3g2e.vercel.app/'>AI Customer Service Chatbot</a>-ChefAssist is an AI-powered chatbot designed to serve as a customer service agent for Faasos restaurant
+ <a href='https://chef-assist-xi.vercel.app/'>AI Customer Service Chatbot</a>-ChefAssist is an AI-powered chatbot designed to serve as a customer service agent for Faasos restaurant
  
  <a href='https://wealth-compass-hub.vercel.app/'>Wealth Compass Hub</a>-Your comprehensive suite of financial calculators to make informed decisions about loans, investments, and personal finance.
  
