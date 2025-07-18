@@ -89,10 +89,23 @@ That being said, I have another side to me!
  
 ###
 <hr/>
-<!-- Github Stats --> 
-<div align="center">
+<h3 align="center">📊 GitHub Stats & Activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noelregis18&show_icons=true&theme=radical&count_private=true&hide_border=true&custom_title=Noel's+GitHub+Stats" alt="Noel's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noelregis18&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelregis18&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=noelregis18.noelregis18" alt="Visitor Counter" />
-</div>
+</p>
 
 ###
 
