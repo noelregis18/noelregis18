@@ -91,7 +91,7 @@ That being said, I have another side to me!
 <hr/>
 <!-- Github Stats --> 
 <div align="center">
-  <img  src="https://profile-counter.glitch.me/noelregis18/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=noelregis18.noelregis18" alt="Visitor Counter" />
 </div>
 
 ###
